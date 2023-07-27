@@ -1,0 +1,24 @@
+SMAP
+About_jsp.java
+JSP
+*S JSP
+*F
++ 0 About.jsp
+About.jsp
++ 1 head.jsp
+head.jsp
++ 2 Navbar.jsp
+Navbar.jsp
+*L
+1,4:50
+1#1,13:53
+4#0,4:66
+1#2,3:70
+1#1,13:73
+3#2,27:86
+7#0,4:113
+11,4:118
+14,21:122
+35:143,3
+36:146
+*E

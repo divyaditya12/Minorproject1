@@ -1,0 +1,20 @@
+SMAP
+Register_jsp.java
+JSP
+*S JSP
+*F
++ 0 Register.jsp
+Register.jsp
++ 1 head.jsp
+head.jsp
++ 2 Navbar2.jsp
+Navbar2.jsp
+*L
+1,4:50
+1#1,13:53
+4#0,4:66
+1#2,3:70
+1#1,13:73
+3#2,23:86
+7#0,21:108
+*E
